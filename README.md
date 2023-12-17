@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basim Bashir</h1>
-<h3 align="center">A passionate frontend devFull Stack Data Scientist applying CV, NLP & advanced ML to build transformative AI solutions. Expert in developing market-ready products leveraging latest deep learning innovations. Eager to push boundaries of possibility with technology to ethically accelerate AI adoption.eloper from India</h3>
+<h3 align="center">A passionate Full Stack Data Scientist applying CV, NLP & advanced ML to build transformative AI solutions. Expert in developing market-ready products leveraging latest deep learning innovations. Eager to push boundaries of possibility with technology to ethically accelerate AI adoption.From Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basimbashir&label=Profile%20views&color=0e75b6&style=flat" alt="basimbashir" /> </p>
 
